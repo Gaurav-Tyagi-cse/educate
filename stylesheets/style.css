@@ -3456,7 +3456,7 @@ footer .widget_recent-courses ul li .review-rating .flat-reviews {
 	margin: 0;
 }
 
-.switcher-container h2 a {
+/* .switcher-container h2 a {
    background-color: #000;
    display: block;
    position: absolute;
@@ -3473,7 +3473,7 @@ footer .widget_recent-courses ul li .review-rating .flat-reviews {
         -ms-transition: all 0.3s ease-in-out;
          -o-transition: all 0.3s ease-in-out;
             transition: all 0.3s ease-in-out;
-}
+} */
 
 .switcher-container h2 a.active {
 	right: 0;
