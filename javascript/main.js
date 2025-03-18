@@ -626,7 +626,7 @@
 
 function openWhatsAppChat() {
     // Replace with your phone number in international format
-    var phoneNumber = "+917379464729";  // Example: 91 for India, followed by the number
+    var phoneNumber = "+918528838455";  // Example: 91 for India, followed by the number
     var message = "Hello, I'm interested in your services!";
     var url = "https://api.whatsapp.com/send?phone=" + phoneNumber + "&text=" + encodeURIComponent(message);
     window.open(url, "_blank");
